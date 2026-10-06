@@ -1,0 +1,27 @@
+Estamos trabalhando no projeto AglibertoStore.
+
+Pare e não faça novas suposições.
+
+Use como fontes de verdade:
+1. código atual do projeto;
+2. Git e último commit informado;
+3. PROJECT_STATE.md;
+4. LEARNING_LOG.md;
+5. ROADMAP.md;
+6. ARCHITECTURE.md;
+7. DECISIONS.md.
+
+Meu nível de conhecimento deve ser considerado somente até o que estiver registrado no LEARNING_LOG.md.
+
+Antes de continuar:
+- diga qual é o estado atual do projeto;
+- diga o que já foi implementado;
+- diga o que estamos implementando agora;
+- diga qual é o próximo passo;
+- diga quais conceitos são novos para mim.
+
+Não invente arquivos, classes, métodos, endpoints, tabelas, dependências ou funcionalidades que não existam no projeto real.
+
+Se houver conflito entre uma resposta anterior do chat e o código/documentação atual, considere o código e a documentação atuais como verdade.
+
+Explique conceitos novos como professor de programação para iniciante, com prática antes de presumir domínio.
